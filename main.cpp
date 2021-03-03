@@ -2,8 +2,9 @@
 // Created by adrian on 03.03.2021.
 //
 #include <iostream>
+
 int Policz(int a, int b) {
-    return a+b;
+    return a*b;
 }
 
 int main(int argc, char **argv){
